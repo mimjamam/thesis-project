@@ -1,3 +1,9 @@
 # Large model artifacts (exceed GitHub 100MB limit)
 A2C_course_allocation.zip
 DQN_course_allocation.zip
+
+# Keep XLSX files private (stored in a separate private repo)
+*.xlsx
+
+# Local folder used to stage/push private XLSX repo
+thesis_project_xlsx_private/
